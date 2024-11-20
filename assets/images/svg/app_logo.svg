@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="488.037" height="443.677" viewBox="0 0 488.037 443.677">
+  <defs>
+    <filter id="Path_2871" x="40.281" y="0" width="447.755" height="394.922" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2872" x="0" y="263.711" width="417.789" height="179.966" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.239"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_76" data-name="Group 76" transform="translate(-857.052 -403.614)">
+    <g transform="matrix(1, 0, 0, 1, 857.05, 403.61)" filter="url(#Path_2871)">
+      <path id="Path_2871-2" data-name="Path 2871" d="M5784.963-781.656l-429.755,189.25,164.807-376.922s64.659,9.463,66.236,12.617S5642.235-765.1,5642.235-765.1l-137.993,31.542L5568.9-765.1l-22.08-89.105-66.236,149.034Z" transform="translate(-5305.93 975.33)" fill="#b7d1e2"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 857.05, 403.61)" filter="url(#Path_2872)">
+      <path id="Path_2872-2" data-name="Path 2872" d="M5740.007-712.877l-51.255-143.514L5340.218-694.426l300.355-83.033,25.349,68.263Z" transform="translate(-5331.22 1126.1)" fill="#0f6cbd"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+enum ValidatorType{password , name , phone , string , otp}

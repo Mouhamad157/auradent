@@ -1,0 +1,53 @@
+name: auradent
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.1 <4.0.0'
+
+# packages
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  dio: 5.3.3
+  equatable: 2.0.5
+  dartz: 0.10.1
+  get: 4.6.6
+  responsive_sizer:
+  get_storage: 2.1.1
+  flutter_svg:
+  shimmer: 3.0.0
+  google_fonts: 6.1.0
+  extended_image: 8.1.1
+  delayed_display: 2.0.0
+  image_picker: 1.0.4
+  filepicker_windows: 2.0.11
+  pinput: 3.0.1
+  firebase_core: 2.21.0
+  firebase_messaging: 14.7.3
+  flutter_snake_navigationbar: 0.6.1
+  read_more_text: 0.0.5
+  intl: ^0.18.1
+  lottie: 3.0.0
+  flutter_animate:
+  animations:
+  video_player: ^2.8.6
+  iconsax: ^0.0.8
+  google_maps_flutter:
+  geolocator:
+  awesome_snackbar_content:
+  window_manager: ^0.3.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/png/
+    - assets/images/svg/
+    - assets/json/
